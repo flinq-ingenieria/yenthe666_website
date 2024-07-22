@@ -1,4 +1,4 @@
-from odoo import fields, http
+from odoo import http
 from odoo.http import request
 from odoo.addons.website.controllers.main import Website
 
